@@ -1,0 +1,25 @@
+baseURL = "https://localhost"
+title = "Andreas Adi"
+theme = "congo"
+
+[author]
+name = "Andreas Adi Purwanto"
+bio = "A little bit about me"
+image = "img/me.jpg"
+links = [
+  { github = "https://github.com/AndreasAdi" },
+  {email ="mailto:andreasadi@duck.com"}
+]
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 20
