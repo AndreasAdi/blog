@@ -1,4 +1,4 @@
-baseURL = "https://localhost"
+baseURL = "https://andreasadi.github.io/blog/"
 title = "Andreas Adi"
 theme = "congo"
 
