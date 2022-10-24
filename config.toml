@@ -10,6 +10,8 @@ links = [
   { github = "https://github.com/AndreasAdi" },
   {email ="mailto:andreasadi@duck.com"}
 ]
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [menu]
   [[menu.main]]
